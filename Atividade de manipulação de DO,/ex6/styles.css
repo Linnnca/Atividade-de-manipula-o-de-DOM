@@ -1,0 +1,21 @@
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.active {
+    background-color: purple;
+}
